@@ -1,0 +1,16 @@
+.box {
+    width: 150px;
+    height: 150px;
+    background-color: rgb(218, 150, 48);
+    padding: 0px;
+    margin: 0px;
+}
+.box-2 {
+    width: 100px;
+    height: 75px;
+    background-color: aqua;
+
+
+
+}
+
